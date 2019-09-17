@@ -1,1 +1,24 @@
-[{"fonts":[{"asset":"fonts/MaterialIcons-Regular.ttf"}],"family":"MaterialIcons"},{"family":"FiraMono","fonts":[{"asset":"assets/fonts/FiraMono-Regular.ttf"}]},{"family":"OpenSans","fonts":[{"asset":"assets/fonts/OpenSans-Light.ttf"}]},{"family":"packages/cupertino_icons/CupertinoIcons","fonts":[{"asset":"packages/cupertino_icons/assets/CupertinoIcons.ttf"}]}]
+[
+  {
+    "family": "FiraMono",
+    "fonts": [
+      {
+        "asset": "fonts/FiraMono-Regular.ttf"
+      },
+      {
+        "asset": "fonts/FiraMono-Bold.ttf"
+      },
+      {
+        "asset": "fonts/FiraMono-Medium.ttf"
+      }
+    ]
+  },
+  {
+    "family": "OpenSans",
+    "fonts": [
+      {
+        "asset": "fonts/OpenSans-Light.ttf"
+      }
+    ]
+  }
+]
